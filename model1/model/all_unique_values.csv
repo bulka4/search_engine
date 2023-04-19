@@ -1,0 +1,14 @@
+,0
+0,Stage.dbi.LangMap
+1,Stage.dbi.PRTL_Vendor
+2,Stage.dbo.vw_CCH_V6a
+3,Stage.emp.tblLU_Departments
+4,Stage.emp.tblLU_Offices
+5,Stage.emp.tblLU_TSOperationTypes
+6,Stage.emp.tblLU_TSOperations
+7,Stage.emp.tblLU_TSProductivityMeasures
+8,Stage.emp.tbl_Clients
+9,Stage.emp.tbl_TSProductivityEntries
+10,Stage.emp.tbl_TSProductivityTimeSpans
+11,Stage.emp.tbl_TSTimesheet
+12,Stage.emp.tbl_Users

@@ -1,0 +1,1 @@
+file glove.840B.300d.txt contains word embeddings needed for a model and it can be downloaded from https://nlp.stanford.edu/projects/glove/
